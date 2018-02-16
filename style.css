@@ -1,0 +1,39 @@
+body{
+
+	background-color: #fafafa;
+	color: white;
+	font-size:18px;
+	font-family: arial;
+	line-height: 1.8em;
+	margin-bottom: 10px;
+
+}
+
+h1 {
+
+	color: black;
+	text-align: right;
+	margin-top: 20px;
+	width: 100%;
+	
+}
+
+p {
+
+	font-family: arial;
+	font-size:10px;
+}
+
+
+button{
+	background-color: blue!important;
+	color: white!important;
+
+}
+
+
+button:hover{
+
+	color: blue!important;
+}
+
